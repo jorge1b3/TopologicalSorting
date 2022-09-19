@@ -1,6 +1,0 @@
-# ninja log v5
-403	482	1663559122391687569	Topological_sorting	ef115fb6b4a94b8d
-0	75	1663509857674862281	CMakeFiles/Topological_sorting.dir/queue.cpp.o	fc27867fb0d983b6
-1	403	1663559122314687561	CMakeFiles/Topological_sorting.dir/main.cpp.o	b26ef3e05a26a6aa
-1	404	1663562297501970377	CMakeFiles/Topological_sorting.dir/main.cpp.o	b26ef3e05a26a6aa
-405	493	1663562297588970709	Topological_sorting	b102c3adc0241725
