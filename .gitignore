@@ -1,2 +1,10 @@
 cmake-build-debug/
 cmake-build-debug/*
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+CMakeFiles/
+CMakeFiles/*
+Makefile
+Topological_sorting
+main
